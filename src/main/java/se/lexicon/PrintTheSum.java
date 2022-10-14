@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class PrintTheSum {
     public static void main(String[] args) {
 
-        int number1, number2, sum;
-
         Scanner sc = new Scanner(System.in);
         boolean condition = true; {
 
